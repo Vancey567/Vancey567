@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay Mishra
 - 🏫 I'm a final year undergraduate student from North Eastern Hill University, Shillong, Meghalaya, India
-- 👀 I’m interested in Java, HTML, CSS, Javascript, NodeJS, ExpressJS, MongoDB, ReactJs
+- 👀 My Skills include Java, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, React.js, SCSS
 - 🌱 I’m currently learning Next.js and TypeScript
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jay-mishra-4a15b01a9/) or [email](jayisatwork1@gmail.com)
 - 
