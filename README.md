@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jay Mishra<br>🏫 I'm a final year undergraduate student from North Eastern Hill University, Shillong, Meghalaya, India<br>👀 My Skills include Java, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, React.js, SCSS<br>🌱 I’m currently learning Next.js and TypeScript<br>📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jay-mishra-4a15b01a9/) or [Email](jayisatwork1@gmail.com)
+👋 Hi, I’m Jay Mishra<br>🏫 I'm working as a fullstack developer at SSB Digital Pvt Ltd for past 2.5 years, India<br>👀 My Skills include Java, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, React.js, SCSS<br>🌱 I’m currently learning Next.js and TypeScript<br>📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jay-mishra-4a15b01a9/) or [Email](jayisatwork1@gmail.com)
 
 
 ## 🌐 Socials:
